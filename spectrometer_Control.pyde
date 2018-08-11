@@ -1,4 +1,5 @@
 # Photospectromer Controller
+# Developed with the Processing3 IDE in Python Mode
 # Author: Darrell Harriman
 newscreen = True
 WvLen = 550 # Wavelength Set Value
